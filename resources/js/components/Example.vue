@@ -11,7 +11,7 @@
   export default {
     data () {
       return {
-        msg: '欢迎 to "resources/js/components/Example.vue"',
+        msg: '欢迎5555555555555555555555 to "resources/js/components/Example.vue"',
         radio: '1'
       }
     }
